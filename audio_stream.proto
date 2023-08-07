@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+package audio_stream;
+
+service AudioStreamService {
+  rpc StreamAudio (stream AudioChunk) returns (stream AudioResponse);
+}
+
+message AudioChunk {
+  bytes data = 1;
+}
+
+message AudioResponse {
+  string message = 1;
+}
+
+// run:
+// python -m grpc_tools.protoc -I. --python_out=. --grpc_python_out=. audio_stream.proto

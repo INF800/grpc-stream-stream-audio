@@ -34,7 +34,7 @@ class AudioStreamServicer(audio_stream_pb2_grpc.AudioStreamServiceServicer):
 
             text = transcribe(audio_chunk.data)
 
-            response = audio_stream_pb2.AudioResponse(message=f"Audio chunk {cntr} received")
+            response = audio_stream_pb2.AudioResponse(message=text)
             yield response
             cntr+=1
 

@@ -9,12 +9,12 @@ import joblib
 from faster_whisper.transcribe import WhisperModel
 
 
-model = WhisperModel('small.en')
+model = WhisperModel("small.en", device='cuda',compute_type="float16", local_files_only=False,)
 
 
 def transcribe(binary_wave_data):
     audio_array = bytes_to_float_array(binary_wave_data)
-    generator, _ = model.transcribe(audio_array)
+    generator, _ = model.transcribe(audio_array, initial_prompt=None, language="en", task="transcribe")
     text = str([e.text for e in generator])
     return text
 

@@ -60,7 +60,7 @@ def stream_audio(stub, audio_files_path):
 
 def main():
     # channel = grpc.insecure_channel('localhost:50051')
-    channel = grpc.insecure_channel('2.tcp.ngrok.io:17782')
+    channel = grpc.insecure_channel('8.tcp.ngrok.io:10519')
     stub = audio_stream_pb2_grpc.AudioStreamServiceStub(channel)
 
     audio_files_path = "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/"

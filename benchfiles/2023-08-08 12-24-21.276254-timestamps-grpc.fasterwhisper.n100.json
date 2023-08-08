@@ -1,0 +1,709 @@
+{
+    "0": {
+        "beg": "2023-08-08T11:59:05.007583",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f000-1650-167613-0016-chunk000.cz215.wav",
+        "end": "2023-08-08T11:59:17.476083",
+        "diff": 12.4685,
+        "response": "[\" I don't know.\"]"
+    },
+    "1": {
+        "beg": "2023-08-08T11:59:20.616854",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f000-1650-167613-0016-chunk001.cz277.wav",
+        "end": "2023-08-08T11:59:28.299617",
+        "diff": 7.682763,
+        "response": "[\" don't.\"]"
+    },
+    "2": {
+        "beg": "2023-08-08T11:59:35.622856",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f000-1650-167613-0016-chunk002.cz360.wav",
+        "end": "2023-08-08T11:59:41.054156",
+        "diff": 5.4313,
+        "response": "[\" and there's\"]"
+    },
+    "3": {
+        "beg": "2023-08-08T11:59:50.628500",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f000-1650-167613-0016-chunk003.cz811.wav",
+        "end": "2023-08-08T11:59:54.328901",
+        "diff": 3.700401,
+        "response": "[' What is']"
+    },
+    "4": {
+        "beg": "2023-08-08T12:00:05.634694",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f000-1650-167613-0016-chunk004.cz315.wav",
+        "end": "2023-08-08T12:00:07.541752",
+        "diff": 1.907058,
+        "response": "[' man.']"
+    },
+    "5": {
+        "beg": "2023-08-08T12:00:20.638125",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f000-1650-167613-0016-chunk005.cz344.wav",
+        "end": "2023-08-08T12:00:21.447367",
+        "diff": 0.809242,
+        "response": "[' Bye.']"
+    },
+    "6": {
+        "beg": "2023-08-08T12:00:35.642992",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f000-1650-167613-0016-chunk006.cz254.wav",
+        "end": "2023-08-08T12:00:36.466956",
+        "diff": 0.823964,
+        "response": "[' Thank you.']"
+    },
+    "7": {
+        "beg": "2023-08-08T12:00:50.645104",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f000-1650-167613-0016-chunk007.cz325.wav",
+        "end": "2023-08-08T12:00:51.606932",
+        "diff": 0.961828,
+        "response": "[' Welcome.']"
+    },
+    "8": {
+        "beg": "2023-08-08T12:01:05.646634",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f000-1650-167613-0016-chunk008.cz262.wav",
+        "end": "2023-08-08T12:01:12.794223",
+        "diff": 7.147589,
+        "response": "[' man.']"
+    },
+    "9": {
+        "beg": "2023-08-08T12:01:20.648995",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f000-1650-167613-0016-chunk009.cz355.wav",
+        "end": "2023-08-08T12:01:28.436967",
+        "diff": 7.787972,
+        "response": "[]"
+    },
+    "10": {
+        "beg": "2023-08-08T12:01:35.649824",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f000-1650-167613-0016-chunk010.cz228.wav",
+        "end": "2023-08-08T12:01:45.827541",
+        "diff": 10.177717,
+        "response": "[' KTVU Fox two news.', ' KTVU Fox two news.', ' KTVU Fox two news.', ' KTVU Fox two news.', ' KTVU Fox two news.', ' KTVU Fox two news.', ' KTVU Fox two news.', ' KTVU Fox two news.', ' KTVU Fox two news.', ' KTVU Fox two news.', ' KTVU Fox two news.', ' KTVU Fox two news.', ' KTVU Fox two news.', ' KTVU Fox two news.', ' KTVU Fox two news.', ' KTVU Fox two news.', ' KTVU Fox two news.', ' KTVU Fox two news.', ' KTVU Fox two news.', ' KTVU Fox two news.', ' KTVU Fox two news.', ' KTVU Fox two news.', ' KTVU Fox two news.', ' KTVU Fox two news.']"
+    },
+    "11": {
+        "beg": "2023-08-08T12:01:50.652159",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f000-1650-167613-0016-chunk011.cz297.wav",
+        "end": "2023-08-08T12:01:55.492261",
+        "diff": 4.840102,
+        "response": "[' end.']"
+    },
+    "12": {
+        "beg": "2023-08-08T12:02:05.656095",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f000-1650-167613-0016-chunk012.cz761.wav",
+        "end": "2023-08-08T12:02:08.561419",
+        "diff": 2.905324,
+        "response": "[' I wrong']"
+    },
+    "13": {
+        "beg": "2023-08-08T12:02:20.658442",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f001-1701-141760-0019-chunk000.cz258.wav",
+        "end": "2023-08-08T12:02:21.544298",
+        "diff": 0.885856,
+        "response": "[' Yes.']"
+    },
+    "14": {
+        "beg": "2023-08-08T12:02:35.664648",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f001-1701-141760-0019-chunk001.cz1376.wav",
+        "end": "2023-08-08T12:02:36.625995",
+        "diff": 0.961347,
+        "response": "[' and I have some money and no letters.']"
+    },
+    "15": {
+        "beg": "2023-08-08T12:02:50.669636",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f001-1701-141760-0019-chunk002.cz160.wav",
+        "end": "2023-08-08T12:02:59.806634",
+        "diff": 9.136998,
+        "response": "[' Thank you.']"
+    },
+    "16": {
+        "beg": "2023-08-08T12:03:05.673394",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f001-1701-141760-0019-chunk003.cz178.wav",
+        "end": "2023-08-08T12:03:13.074448",
+        "diff": 7.401054,
+        "response": "[' Thank you.']"
+    },
+    "17": {
+        "beg": "2023-08-08T12:03:20.675843",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f001-1701-141760-0019-chunk004.cz332.wav",
+        "end": "2023-08-08T12:03:27.365177",
+        "diff": 6.689334,
+        "response": "[' He had.']"
+    },
+    "18": {
+        "beg": "2023-08-08T12:03:35.677292",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f002-1651-136854-0013-chunk000.cz214.wav",
+        "end": "2023-08-08T12:03:41.063006",
+        "diff": 5.385714,
+        "response": "[]"
+    },
+    "19": {
+        "beg": "2023-08-08T12:03:50.681090",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f002-1651-136854-0013-chunk001.cz373.wav",
+        "end": "2023-08-08T12:03:54.789493",
+        "diff": 4.108403,
+        "response": "[' college.']"
+    },
+    "20": {
+        "beg": "2023-08-08T12:04:05.683575",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f002-1651-136854-0013-chunk002.cz420.wav",
+        "end": "2023-08-08T12:04:07.347589",
+        "diff": 1.664014,
+        "response": "[' friendship.']"
+    },
+    "21": {
+        "beg": "2023-08-08T12:04:20.685316",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f002-1651-136854-0013-chunk003.cz205.wav",
+        "end": "2023-08-08T12:04:21.446569",
+        "diff": 0.761253,
+        "response": "[' like']"
+    },
+    "22": {
+        "beg": "2023-08-08T12:04:35.690893",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f002-1651-136854-0013-chunk004.cz310.wav",
+        "end": "2023-08-08T12:04:43.619800",
+        "diff": 7.928907,
+        "response": "[' lady']"
+    },
+    "23": {
+        "beg": "2023-08-08T12:04:50.693997",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f003-1701-141760-0009-chunk000.cz494.wav",
+        "end": "2023-08-08T12:04:59.439023",
+        "diff": 8.745026,
+        "response": "[\" Here's the boat.\"]"
+    },
+    "24": {
+        "beg": "2023-08-08T12:05:05.699677",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f003-1701-141760-0009-chunk001.cz442.wav",
+        "end": "2023-08-08T12:05:12.642262",
+        "diff": 6.942585,
+        "response": "[' to embrace.']"
+    },
+    "25": {
+        "beg": "2023-08-08T12:05:20.704314",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f003-1701-141760-0009-chunk002.cz163.wav",
+        "end": "2023-08-08T12:05:25.929657",
+        "diff": 5.225343,
+        "response": "[' is']"
+    },
+    "26": {
+        "beg": "2023-08-08T12:05:35.709944",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f003-1701-141760-0009-chunk003.cz293.wav",
+        "end": "2023-08-08T12:05:39.202905",
+        "diff": 3.492961,
+        "response": "[' friends.']"
+    },
+    "27": {
+        "beg": "2023-08-08T12:05:50.716959",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f003-1701-141760-0009-chunk004.cz152.wav",
+        "end": "2023-08-08T12:05:52.515851",
+        "diff": 1.798892,
+        "response": "[]"
+    },
+    "28": {
+        "beg": "2023-08-08T12:06:05.723784",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f003-1701-141760-0009-chunk005.cz165.wav",
+        "end": "2023-08-08T12:06:06.512409",
+        "diff": 0.788625,
+        "response": "[]"
+    },
+    "29": {
+        "beg": "2023-08-08T12:06:20.728591",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f003-1701-141760-0009-chunk006.cz319.wav",
+        "end": "2023-08-08T12:06:21.495827",
+        "diff": 0.767236,
+        "response": "[' Closer.']"
+    },
+    "30": {
+        "beg": "2023-08-08T12:06:35.741771",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f003-1701-141760-0009-chunk007.cz363.wav",
+        "end": "2023-08-08T12:06:43.137498",
+        "diff": 7.395727,
+        "response": "[' avoid it.']"
+    },
+    "31": {
+        "beg": "2023-08-08T12:06:50.750344",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f003-1701-141760-0009-chunk008.cz178.wav",
+        "end": "2023-08-08T12:06:56.995712",
+        "diff": 6.245368,
+        "response": "[' head.']"
+    },
+    "32": {
+        "beg": "2023-08-08T12:07:05.762210",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f004-3660-172183-0015-chunk000.cz271.wav",
+        "end": "2023-08-08T12:07:11.534857",
+        "diff": 5.772647,
+        "response": "[' I will.']"
+    },
+    "33": {
+        "beg": "2023-08-08T12:07:20.769277",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f004-3660-172183-0015-chunk001.cz320.wav",
+        "end": "2023-08-08T12:07:24.763273",
+        "diff": 3.993996,
+        "response": "[]"
+    },
+    "34": {
+        "beg": "2023-08-08T12:07:35.772438",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f004-3660-172183-0015-chunk002.cz535.wav",
+        "end": "2023-08-08T12:07:38.157321",
+        "diff": 2.384883,
+        "response": "[' as far as I can.']"
+    },
+    "35": {
+        "beg": "2023-08-08T12:07:50.776235",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f004-3660-172183-0015-chunk003.cz681.wav",
+        "end": "2023-08-08T12:07:51.595048",
+        "diff": 0.818813,
+        "response": "[' can, Lord.']"
+    },
+    "36": {
+        "beg": "2023-08-08T12:08:05.780819",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f004-3660-172183-0015-chunk004.cz263.wav",
+        "end": "2023-08-08T12:08:06.613206",
+        "diff": 0.832387,
+        "response": "[' She.']"
+    },
+    "37": {
+        "beg": "2023-08-08T12:08:20.789337",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f004-3660-172183-0015-chunk005.cz334.wav",
+        "end": "2023-08-08T12:08:26.713835",
+        "diff": 5.924498,
+        "response": "[]"
+    },
+    "38": {
+        "beg": "2023-08-08T12:08:35.797509",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f004-3660-172183-0015-chunk006.cz296.wav",
+        "end": "2023-08-08T12:08:42.477501",
+        "diff": 6.679992,
+        "response": "[' died.']"
+    },
+    "39": {
+        "beg": "2023-08-08T12:08:50.796637",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f004-3660-172183-0015-chunk007.cz328.wav",
+        "end": "2023-08-08T12:08:56.409951",
+        "diff": 5.613314,
+        "response": "[' design.']"
+    },
+    "40": {
+        "beg": "2023-08-08T12:09:05.788167",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f005-1630-96099-0005-chunk000.cz846.wav",
+        "end": "2023-08-08T12:09:09.200932",
+        "diff": 3.412765,
+        "response": "[' You shall be deceived.']"
+    },
+    "41": {
+        "beg": "2023-08-08T12:09:20.790738",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f005-1630-96099-0005-chunk001.cz353.wav",
+        "end": "2023-08-08T12:09:23.176042",
+        "diff": 2.385304,
+        "response": "[' Missed.']"
+    },
+    "42": {
+        "beg": "2023-08-08T12:09:35.793831",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f005-1630-96099-0005-chunk002.cz145.wav",
+        "end": "2023-08-08T12:09:36.612082",
+        "diff": 0.818251,
+        "response": "[]"
+    },
+    "43": {
+        "beg": "2023-08-08T12:09:50.803107",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f005-1630-96099-0005-chunk003.cz1366.wav",
+        "end": "2023-08-08T12:09:51.680382",
+        "diff": 0.877275,
+        "response": "[' discharge from the saw.']"
+    },
+    "44": {
+        "beg": "2023-08-08T12:10:05.806800",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f005-1630-96099-0005-chunk004.cz519.wav",
+        "end": "2023-08-08T12:10:15.318314",
+        "diff": 9.511514,
+        "response": "[\" You're a disc\"]"
+    },
+    "45": {
+        "beg": "2023-08-08T12:10:20.809734",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f005-1630-96099-0005-chunk005.cz687.wav",
+        "end": "2023-08-08T12:10:27.110570",
+        "diff": 6.300836,
+        "response": "[' crazed to the']"
+    },
+    "46": {
+        "beg": "2023-08-08T12:10:35.813230",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f005-1630-96099-0005-chunk006.cz460.wav",
+        "end": "2023-08-08T12:10:42.111119",
+        "diff": 6.297889,
+        "response": "[' Force.']"
+    },
+    "47": {
+        "beg": "2023-08-08T12:10:50.822717",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f006-1630-102884-0005-chunk000.cz431.wav",
+        "end": "2023-08-08T12:10:55.838552",
+        "diff": 5.015835,
+        "response": "[]"
+    },
+    "48": {
+        "beg": "2023-08-08T12:11:05.829764",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f006-1630-102884-0005-chunk001.cz345.wav",
+        "end": "2023-08-08T12:11:09.013624",
+        "diff": 3.18386,
+        "response": "[' case.']"
+    },
+    "49": {
+        "beg": "2023-08-08T12:11:20.840455",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f006-1630-102884-0005-chunk002.cz275.wav",
+        "end": "2023-08-08T12:11:22.544629",
+        "diff": 1.704174,
+        "response": "[' Have fun!']"
+    },
+    "50": {
+        "beg": "2023-08-08T12:11:35.844459",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f006-1630-102884-0005-chunk003.cz436.wav",
+        "end": "2023-08-08T12:11:36.616843",
+        "diff": 0.772384,
+        "response": "[' leave.']"
+    },
+    "51": {
+        "beg": "2023-08-08T12:11:50.853978",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f006-1630-102884-0005-chunk004.cz233.wav",
+        "end": "2023-08-08T12:11:52.231269",
+        "diff": 1.377291,
+        "response": "[' Maths']"
+    },
+    "52": {
+        "beg": "2023-08-08T12:12:05.858668",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f006-1630-102884-0005-chunk005.cz542.wav",
+        "end": "2023-08-08T12:12:13.818108",
+        "diff": 7.95944,
+        "response": "[' Chain himself.']"
+    },
+    "53": {
+        "beg": "2023-08-08T12:12:20.864763",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f006-1630-102884-0005-chunk006.cz302.wav",
+        "end": "2023-08-08T12:12:28.677898",
+        "diff": 7.813135,
+        "response": "[' self.']"
+    },
+    "54": {
+        "beg": "2023-08-08T12:12:35.871762",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f006-1630-102884-0005-chunk007.cz409.wav",
+        "end": "2023-08-08T12:12:41.679407",
+        "diff": 5.807645,
+        "response": "[' to them.']"
+    },
+    "55": {
+        "beg": "2023-08-08T12:12:50.883099",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f006-1630-102884-0005-chunk008.cz414.wav",
+        "end": "2023-08-08T12:12:57.260101",
+        "diff": 6.377002,
+        "response": "[' He who.']"
+    },
+    "56": {
+        "beg": "2023-08-08T12:13:05.888136",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f006-1630-102884-0005-chunk009.cz315.wav",
+        "end": "2023-08-08T12:13:10.393890",
+        "diff": 4.505754,
+        "response": "[' build.']"
+    },
+    "57": {
+        "beg": "2023-08-08T12:13:20.895445",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f006-1630-102884-0005-chunk010.cz453.wav",
+        "end": "2023-08-08T12:13:23.143080",
+        "diff": 2.247635,
+        "response": "[]"
+    },
+    "58": {
+        "beg": "2023-08-08T12:13:35.904874",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f006-1630-102884-0005-chunk011.cz192.wav",
+        "end": "2023-08-08T12:13:36.725926",
+        "diff": 0.821052,
+        "response": "[]"
+    },
+    "59": {
+        "beg": "2023-08-08T12:13:50.916859",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f006-1630-102884-0005-chunk012.cz327.wav",
+        "end": "2023-08-08T12:13:52.132218",
+        "diff": 1.215359,
+        "response": "[' creating']"
+    },
+    "60": {
+        "beg": "2023-08-08T12:14:05.925470",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f006-1630-102884-0005-chunk013.cz1067.wav",
+        "end": "2023-08-08T12:14:11.850136",
+        "diff": 5.924666,
+        "response": "[' exclusion for others.']"
+    },
+    "61": {
+        "beg": "2023-08-08T12:14:20.938868",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f006-1630-102884-0005-chunk014.cz430.wav",
+        "end": "2023-08-08T12:14:27.216456",
+        "diff": 6.277588,
+        "response": "[' Build.']"
+    },
+    "62": {
+        "beg": "2023-08-08T12:14:35.948685",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f006-1630-102884-0005-chunk015.cz408.wav",
+        "end": "2023-08-08T12:14:42.170069",
+        "diff": 6.221384,
+        "response": "[' walls.']"
+    },
+    "63": {
+        "beg": "2023-08-08T12:14:50.956812",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f006-1630-102884-0005-chunk016.cz476.wav",
+        "end": "2023-08-08T12:14:55.517199",
+        "diff": 4.560387,
+        "response": "[' across.']"
+    },
+    "64": {
+        "beg": "2023-08-08T12:15:05.960089",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f006-1630-102884-0005-chunk017.cz162.wav",
+        "end": "2023-08-08T12:15:08.488949",
+        "diff": 2.52886,
+        "response": "[]"
+    },
+    "65": {
+        "beg": "2023-08-08T12:15:20.971085",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f006-1630-102884-0005-chunk018.cz341.wav",
+        "end": "2023-08-08T12:15:21.798839",
+        "diff": 0.827754,
+        "response": "[' own']"
+    },
+    "66": {
+        "beg": "2023-08-08T12:15:35.982900",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f006-1630-102884-0005-chunk019.cz471.wav",
+        "end": "2023-08-08T12:15:37.411575",
+        "diff": 1.428675,
+        "response": "[' freedom.']"
+    },
+    "67": {
+        "beg": "2023-08-08T12:15:50.993304",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f006-1630-102884-0005-chunk020.cz249.wav",
+        "end": "2023-08-08T12:15:59.314991",
+        "diff": 8.321687,
+        "response": "[' keyhole.']"
+    },
+    "68": {
+        "beg": "2023-08-08T12:16:06.001893",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f006-1630-102884-0005-chunk021.cz150.wav",
+        "end": "2023-08-08T12:16:14.040403",
+        "diff": 8.03851,
+        "response": "[' Thank you.']"
+    },
+    "69": {
+        "beg": "2023-08-08T12:16:21.013633",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f006-1630-102884-0005-chunk022.cz173.wav",
+        "end": "2023-08-08T12:16:27.350782",
+        "diff": 6.337149,
+        "response": "[]"
+    },
+    "70": {
+        "beg": "2023-08-08T12:16:36.018837",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f006-1630-102884-0005-chunk023.cz315.wav",
+        "end": "2023-08-08T12:16:36.826038",
+        "diff": 0.807201,
+        "response": "[' trust.']"
+    },
+    "71": {
+        "beg": "2023-08-08T12:16:51.030716",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f006-1630-102884-0005-chunk024.cz906.wav",
+        "end": "2023-08-08T12:16:54.394257",
+        "diff": 3.363541,
+        "response": "[' freedom in others.']"
+    },
+    "72": {
+        "beg": "2023-08-08T12:17:06.041867",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f006-1630-102884-0005-chunk025.cz537.wav",
+        "end": "2023-08-08T12:17:08.804548",
+        "diff": 2.762681,
+        "response": "[' loses']"
+    },
+    "73": {
+        "beg": "2023-08-08T12:17:21.055045",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f006-1630-102884-0005-chunk026.cz195.wav",
+        "end": "2023-08-08T12:17:22.976382",
+        "diff": 1.921337,
+        "response": "[]"
+    },
+    "74": {
+        "beg": "2023-08-08T12:17:36.058754",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f006-1630-102884-0005-chunk027.cz761.wav",
+        "end": "2023-08-08T12:17:36.882917",
+        "diff": 0.824163,
+        "response": "[' modeled right.']"
+    },
+    "75": {
+        "beg": "2023-08-08T12:17:51.064502",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f006-1630-102884-0005-chunk028.cz369.wav",
+        "end": "2023-08-08T12:17:59.332922",
+        "diff": 8.26842,
+        "response": "[' to it.']"
+    },
+    "76": {
+        "beg": "2023-08-08T12:18:06.068782",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f007-1255-138279-0001-chunk000.cz338.wav",
+        "end": "2023-08-08T12:18:13.579081",
+        "diff": 7.510299,
+        "response": "[' still.']"
+    },
+    "77": {
+        "beg": "2023-08-08T12:18:21.074140",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f007-1255-138279-0001-chunk001.cz190.wav",
+        "end": "2023-08-08T12:18:26.876546",
+        "diff": 5.802406,
+        "response": "[' Twitter.']"
+    },
+    "78": {
+        "beg": "2023-08-08T12:18:36.085018",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f007-1255-138279-0001-chunk002.cz362.wav",
+        "end": "2023-08-08T12:18:40.003832",
+        "diff": 3.918814,
+        "response": "[' Closer.']"
+    },
+    "79": {
+        "beg": "2023-08-08T12:18:51.098331",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f007-1255-138279-0001-chunk003.cz266.wav",
+        "end": "2023-08-08T12:18:53.578809",
+        "diff": 2.480478,
+        "response": "[' observe.']"
+    },
+    "80": {
+        "beg": "2023-08-08T12:19:06.100432",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f007-1255-138279-0001-chunk004.cz189.wav",
+        "end": "2023-08-08T12:19:06.904524",
+        "diff": 0.804092,
+        "response": "[' over.']"
+    },
+    "81": {
+        "beg": "2023-08-08T12:19:21.108061",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f007-1255-138279-0001-chunk005.cz991.wav",
+        "end": "2023-08-08T12:19:22.010571",
+        "diff": 0.90251,
+        "response": "[' They are just as perceptive.']"
+    },
+    "82": {
+        "beg": "2023-08-08T12:19:36.116765",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f007-1255-138279-0001-chunk006.cz143.wav",
+        "end": "2023-08-08T12:19:42.874112",
+        "diff": 6.757347,
+        "response": "[' to...']"
+    },
+    "83": {
+        "beg": "2023-08-08T12:19:51.119731",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f007-1255-138279-0001-chunk007.cz238.wav",
+        "end": "2023-08-08T12:19:59.857261",
+        "diff": 8.73753,
+        "response": "[' The diff-']"
+    },
+    "84": {
+        "beg": "2023-08-08T12:20:06.131560",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f007-1255-138279-0001-chunk008.cz589.wav",
+        "end": "2023-08-08T12:20:10.710435",
+        "diff": 4.578875,
+        "response": "[' is']"
+    },
+    "85": {
+        "beg": "2023-08-08T12:20:21.144702",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f007-1255-138279-0001-chunk009.cz145.wav",
+        "end": "2023-08-08T12:20:28.805996",
+        "diff": 7.661294,
+        "response": "[\" That's it.\", \" That's it.\", \" That's it.\", \" That's it.\", \" That's it.\", \" That's it.\", \" That's it.\", \" That's it.\", \" That's it.\", \" That's it.\", \" That's it.\", \" That's it.\", \" That's it.\", \" That's it.\", \" That's it.\", \" That's it.\", \" That's it.\", \" That's it.\", \" That's it.\", \" That's it.\", \" That's it.\"]"
+    },
+    "86": {
+        "beg": "2023-08-08T12:20:36.150614",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f007-1255-138279-0001-chunk010.cz665.wav",
+        "end": "2023-08-08T12:20:39.588515",
+        "diff": 3.437901,
+        "response": "[' the meteor.']"
+    },
+    "87": {
+        "beg": "2023-08-08T12:20:51.159080",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f007-1255-138279-0001-chunk011.cz807.wav",
+        "end": "2023-08-08T12:20:52.798408",
+        "diff": 1.639328,
+        "response": "[' manifestation']"
+    },
+    "88": {
+        "beg": "2023-08-08T12:21:06.171363",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f007-1255-138279-0001-chunk012.cz406.wav",
+        "end": "2023-08-08T12:21:07.606598",
+        "diff": 1.435235,
+        "response": "[' unless']"
+    },
+    "89": {
+        "beg": "2023-08-08T12:21:21.179166",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f007-1255-138279-0001-chunk013.cz318.wav",
+        "end": "2023-08-08T12:21:21.967361",
+        "diff": 0.788195,
+        "response": "[' Try it.']"
+    },
+    "90": {
+        "beg": "2023-08-08T12:21:36.192254",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f007-1255-138279-0001-chunk014.cz431.wav",
+        "end": "2023-08-08T12:21:45.535854",
+        "diff": 9.3436,
+        "response": "[' Familiar.']"
+    },
+    "91": {
+        "beg": "2023-08-08T12:21:51.205457",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f007-1255-138279-0001-chunk015.cz461.wav",
+        "end": "2023-08-08T12:21:58.461861",
+        "diff": 7.256404,
+        "response": "[' than such.']"
+    },
+    "92": {
+        "beg": "2023-08-08T12:22:06.212345",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f007-1255-138279-0001-chunk016.cz532.wav",
+        "end": "2023-08-08T12:22:12.160283",
+        "diff": 5.947938,
+        "response": "[' Well known.']"
+    },
+    "93": {
+        "beg": "2023-08-08T12:22:21.225217",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f007-1255-138279-0001-chunk017.cz170.wav",
+        "end": "2023-08-08T12:22:25.676513",
+        "diff": 4.451296,
+        "response": "[]"
+    },
+    "94": {
+        "beg": "2023-08-08T12:22:36.234626",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f007-1255-138279-0001-chunk018.cz288.wav",
+        "end": "2023-08-08T12:22:38.507874",
+        "diff": 2.273248,
+        "response": "[' us.']"
+    },
+    "95": {
+        "beg": "2023-08-08T12:22:51.247528",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f007-1255-138279-0001-chunk019.cz200.wav",
+        "end": "2023-08-08T12:22:52.029408",
+        "diff": 0.78188,
+        "response": "[' the']"
+    },
+    "96": {
+        "beg": "2023-08-08T12:23:06.258360",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f007-1255-138279-0001-chunk020.cz323.wav",
+        "end": "2023-08-08T12:23:07.085063",
+        "diff": 0.826703,
+        "response": "[' busting']"
+    },
+    "97": {
+        "beg": "2023-08-08T12:23:21.271591",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f007-1255-138279-0001-chunk021.cz362.wav",
+        "end": "2023-08-08T12:23:31.407220",
+        "diff": 10.135629,
+        "response": "[' the bud.']"
+    },
+    "98": {
+        "beg": "2023-08-08T12:23:36.281041",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f007-1255-138279-0001-chunk022.cz192.wav",
+        "end": "2023-08-08T12:23:41.447936",
+        "diff": 5.166895,
+        "response": "[]"
+    },
+    "99": {
+        "beg": "2023-08-08T12:23:51.281492",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f007-1255-138279-0001-chunk023.cz235.wav",
+        "end": "2023-08-08T12:23:57.922653",
+        "diff": 6.641161,
+        "response": "[' all the']"
+    },
+    "100": {
+        "beg": "2023-08-08T12:24:06.273337",
+        "filepath": "/Users/clinicyantra/Desktop/projects/assemblyai-stt/chunks_intact_words/f007-1255-138279-0001-chunk024.cz287.wav",
+        "end": "2023-08-08T12:24:11.486387",
+        "diff": 5.21305,
+        "response": "[]"
+    }
+}

@@ -1,3 +1,4 @@
+import datetime
 import wave
 import grpc
 import numpy as np
@@ -31,8 +32,11 @@ class AudioStreamServicer(audio_stream_pb2_grpc.AudioStreamServiceServicer):
         for audio_chunk in request_iterator:
             # Process the audio chunk here (e.g., save to a file, analyze, etc.)
             print(f"[SERVER] Received audio chunk: {len(audio_chunk.data)} bytes")
-
+            
+            beg = datetime.datetime.now()
             text = transcribe(audio_chunk.data)
+            diff = datetime.datetime.now()-beg
+            print("\tProcessed in:", round(diff.total_seconds(),3))
 
             response = audio_stream_pb2.AudioResponse(message=text)
             yield response
